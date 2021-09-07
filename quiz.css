@@ -54,6 +54,7 @@ p{
     width:70%;
     border-radius: 0.4rem;
     align-items: center;
+    font-size: 1.3rem;
     
 }
 
@@ -63,7 +64,7 @@ button{
     background-color:#345B63 ;
     color:white;
     display:block;
-    
+    font-size:1.3rem
 }
 
 #output-div{

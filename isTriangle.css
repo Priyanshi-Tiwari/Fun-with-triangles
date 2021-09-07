@@ -31,6 +31,7 @@ label{
     color:#112031;
     font-weight: bold ;
     display:block;
+    font-size:1.3rem;
 }
 
 h1{
@@ -56,6 +57,7 @@ button{
     background-color:#345B63 ;
     color:white;
     display:block;
+    font-size:1.3rem
     
 }
 
