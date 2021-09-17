@@ -2,7 +2,7 @@ var myForm=document.querySelector(".quiz-form");
 var button=document.querySelector("#submit-btn");
 var output=document.querySelector("#output-div");
 
- var answers=["90°","right angled"]
+ var answers=["90°","right angled","equilateral","one right angle"]
 function playQuiz(){
     var formData= new FormData(myForm);
     score=0;

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 *{
     margin: 0;
 }
@@ -18,12 +19,14 @@ a{
 }
 body{
     background-color:#D4ECDD ;
+    font-family: 'Montserrat', sans-serif;
 }
 
 input{
     display:block;
     margin:0.5rem 0;
     padding:0.3rem;
+    
     
 }
 
@@ -32,6 +35,8 @@ label{
     font-weight: bold ;
     display:block;
     font-size: 1.1rem;
+    
+    
 }
 
 h1{
@@ -53,7 +58,7 @@ h1{
 }
 
 button{
-    width:27%;
+    width:50%;
     padding:0.3rem;
     background-color:#345B63 ;
     color:white;
