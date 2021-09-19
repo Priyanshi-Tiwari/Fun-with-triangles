@@ -5,8 +5,8 @@ var output=document.querySelector("#output-div");
  var answers=["90°","right angled","equilateral","one right angle"]
 function playQuiz(){
     var formData= new FormData(myForm);
-    score=0;
-    index=0;
+    var score=0;
+    var index=0;
     for(var value of formData.values()){
         if(value===answers[index]){
             score=score+1;
