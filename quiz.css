@@ -16,7 +16,7 @@ nav{
 }
 
 a{
-    color:rgb(110, 106, 106);
+    color:#FFFFFF;
     margin:0 0.5rem;
 }
 
@@ -80,7 +80,7 @@ button{
     margin-bottom: 0.5rem;
 }
 
-containerTwo{
+.containerTwo{
     padding-left: 1rem;
     padding-right: 1rem;
     color:#5265E4;
@@ -93,7 +93,7 @@ containerTwo{
 .centered{
     width:600px;
     margin:auto;
-    margin-bottom: 3rem;
+    
 }
 
 .list-non-bullet{
